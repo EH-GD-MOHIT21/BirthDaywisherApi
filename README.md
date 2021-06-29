@@ -20,4 +20,4 @@
 
 <h3>Divided code in chunks of files so that each function/class's functionality/priority is same.</h3>
 
-# For more info please Read <a href="#">__explanations__.py</a>
+# For more info please Read <a href="https://github.com/EH-GD-MOHIT21/BirthDaywisherApi/blob/main/main/__explanation__.py">__explanations__.py</a>
